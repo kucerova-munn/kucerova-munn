@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Handouts and Slides
+title: Handouts
 has_children: false
 ---
 # Handouts from recent talks
