@@ -1,5 +1,5 @@
 % !TEX TS-program = arara
-% arara: pdflatex: {shell: true}
+% arara: lualatex: {shell: true}
 
 \documentclass[
 	border=4pt,
@@ -9,8 +9,11 @@
 	]{standalone}
 	
 \usepackage[linguistics]{forest}
+\usepackage{fontspec}
+\setmainfont{Myriad Pro}
 \begin{document}
-\begin{forest}
-[\&P [Ivona Kučerová] [\&$'$ [\&\\and] [Alan Munn]]]
+\Huge
+\begin{forest}for tree={edge={ultra thick}}
+[\&P [Ivona Kučerová] [\&' [\&\\and] [Alan Munn]]]
 \end{forest} 
 \end{document}
