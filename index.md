@@ -10,6 +10,6 @@ This site contains joint research by Ivona Kučerová (McMaster University) and 
 
 
 # Contact
-[Ivona Kučerova](mailto:ivona@alum.mit.edu)
+[Ivona Kučerová](mailto:ivona@alum.mit.edu)
 
 [Alan Munn](mailto:alan.munn@terpalum.umd.edu)
