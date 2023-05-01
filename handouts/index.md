@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Intro Lingusitics
+title: Handouts and Slide
 has_children: true
 ---
-# Intro Linguistics
-This section contains information helpful for teaching introductory linguistics courses.
+# Handouts from recent talks
+ - [WCCFL41 Handout](KucerovaMunn2023CGG-WCFFL-handout-04-28.pdf)

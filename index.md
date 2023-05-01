@@ -8,6 +8,7 @@ nav_order: 1
 This site contains joint research by Ivona Kučerová (McMaster University) and Alan Munn (Michigan State University)
 
 
-
+# Contact
 [Ivona Kučerova](mailto:ivona@alum.mit.edu)
+
 [Alan Munn](mailto:alan.munn@terpalum.umd.edu)
