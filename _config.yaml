@@ -1,3 +1,4 @@
 remote_theme: pmarsceill/just-the-docs
 logo: "/assets/images/logo.png"
+math: mathjax
 footer_content: "Syntax Research of Ivona Kučerová and Alan Munn &copy; 2023."
