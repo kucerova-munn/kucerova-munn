@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Welcome
+logo: logo.png
 nav_order: 1
 ---
 

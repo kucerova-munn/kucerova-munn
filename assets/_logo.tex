@@ -1,0 +1,16 @@
+% !TEX TS-program = arara
+% arara: pdflatex: {shell: true}
+
+\documentclass[
+	border=4pt,
+	convert={density=600},
+	multi={forest},
+	varwidth=true
+	]{standalone}
+	
+\usepackage[linguistics]{forest}
+\begin{document}
+\begin{forest}
+[\&P [Ivona Kučerová] [\&$'$ [\&\\and] [Alan Munn]]]
+\end{forest} 
+\end{document}
