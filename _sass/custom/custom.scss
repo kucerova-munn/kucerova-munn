@@ -1,7 +1,7 @@
 @if variable-exists(logo) {
   .site-logo {
-    width: 200%;
-    height: 150%;
+    width: 300%;
+    height: 100%;
     background-image: url($logo);
     background-repeat: no-repeat;
     background-position: left center;
