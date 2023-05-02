@@ -1,10 +1,9 @@
 .site-title {
   @include container;
 
-  flex-grow: 3;
+  flex-grow: 1;
   display: flex;
-  height: 300%;
-  flex-direction: column;
+  height: 100%;
   align-items: center;
   padding-top: $sp-3;
   padding-bottom: $sp-3;
@@ -19,7 +18,7 @@
 
 @if variable-exists(logo) {
   .site-logo {
-    width: 100%;
+    width: 120%;
     height: 100%;
     background-image: url($logo);
     background-repeat: no-repeat;
